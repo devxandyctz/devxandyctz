@@ -4,21 +4,62 @@ Sou **desenvolvedor web** com experiência em **HTML**, **CSS**, **JavaScript** 
 
 ## 🚀 **Minhas Habilidades**  
 
-<div style="display: flex; flex-direction: column; gap: 10px;">  
-  <div>  
-    <strong>Frontend:</strong>  
-    <progress value="90" max="100" style="width: 100%;"></progress> HTML5 (90%)  
-    <progress value="85" max="100" style="width: 100%;"></progress> CSS3 (85%)  
-    <progress value="55" max="100" style="width: 100%;"></progress> JavaScript (55%)  
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">  
+  <div style="text-align: center;">  
+    <svg width="100" height="100" viewBox="0 0 36 36">  
+      <path  
+        d="M18 2.0845  
+           a 15.9155 15.9155 0 0 1 0 31.831  
+           a 15.9155 15.9155 0 0 1 0 -31.831"  
+        fill="none"  
+        stroke="#4caf50"  
+        stroke-width="2.8"  
+        stroke-dasharray="90, 100"  
+      />  
+    </svg>  
+    <p>HTML5 (90%)</p>  
   </div>  
-  <div>  
-    <strong>Backend:</strong>  
-    <progress value="40" max="100" style="width: 100%;"></progress> Python (40%)  
+  <div style="text-align: center;">  
+    <svg width="100" height="100" viewBox="0 0 36 36">  
+      <path  
+        d="M18 2.0845  
+           a 15.9155 15.9155 0 0 1 0 31.831  
+           a 15.9155 15.9155 0 0 1 0 -31.831"  
+        fill="none"  
+        stroke="#2196f3"  
+        stroke-width="2.8"  
+        stroke-dasharray="85, 100"  
+      />  
+    </svg>  
+    <p>CSS3 (85%)</p>  
   </div>  
-  <div>  
-    <strong>Versionamento:</strong>  
-    <progress value="75" max="100" style="width: 100%;"></progress> Git (75%)  
-    <progress value="75" max="100" style="width: 100%;"></progress> GitHub (75%)  
+  <div style="text-align: center;">  
+    <svg width="100" height="100" viewBox="0 0 36 36">  
+      <path  
+        d="M18 2.0845  
+           a 15.9155 15.9155 0 0 1 0 31.831  
+           a 15.9155 15.9155 0 0 1 0 -31.831"  
+        fill="none"  
+        stroke="#ff9800"  
+        stroke-width="2.8"  
+        stroke-dasharray="75, 100"  
+      />  
+    </svg>  
+    <p>JavaScript (75%)</p>  
+  </div>  
+  <div style="text-align: center;">  
+    <svg width="100" height="100" viewBox="0 0 36 36">  
+      <path  
+        d="M18 2.0845  
+           a 15.9155 15.9155 0 0 1 0 31.831  
+           a 15.9155 15.9155 0 0 1 0 -31.831"  
+        fill="none"  
+        stroke="#ff5722"  
+        stroke-width="2.8"  
+        stroke-dasharray="80, 100"  
+      />  
+    </svg>  
+    <p>Python (80%)</p>  
   </div>  
 </div>  
 
